@@ -1,5 +1,14 @@
 # MERN comment box app
 
+#GitHub tutorial link:
+https://github.com/bryantheastronaut/mernCommentBox
+
+#Facebook Tutorial link
+https://facebook.github.io/react/tutorial/tutorial.html
+
+#GA Tutorial list
+https://github.com/SF-WDI-LABS/MERN-CRUD-Lab
+
 ## Objectives
 
 * Utilize React skills to build a comment box frontend

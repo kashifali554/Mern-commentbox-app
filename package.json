@@ -1,5 +1,5 @@
 {
-  "name": "mernCommentBox",
+  "name": "mern_comment_box",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
@@ -22,5 +22,20 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "## Objectives",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SF-WDI-LABS/MERN-CRUD-Lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SF-WDI-LABS/MERN-CRUD-Lab/issues"
+  },
+  "homepage": "https://github.com/SF-WDI-LABS/MERN-CRUD-Lab#readme"
 }
